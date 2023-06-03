@@ -1,2 +1,3 @@
-# OUAGV
-Our team makes robots as a hobby!
+# Hello everyone!
+私達はOUAGVです。中之島チャレンジ、つくばチャレンジへの出場を目指すロボコンサークルです。
+
